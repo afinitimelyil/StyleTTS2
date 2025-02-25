@@ -24,7 +24,7 @@ accelerate = "*"
 langchain = "*"
 
 huggingface-hub = "*"
-transformer = "*"
+transformers = "*"
 cached-path = "*"
 filelock = "*"
 
