@@ -20,7 +20,7 @@ PyYAML = "*"
 librosa = "*"
 nltk = "*"
 matplotlib = "*"
-accelerate = ""*"
+accelerate = "*"
 langchain = "*"
 
 huggingface-hub = "*"
